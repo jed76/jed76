@@ -17,4 +17,6 @@ Faghaidh seanchas ag https://seanchas-gaelach.neocities.org/
 
 ## My languages
 
-I mostly work in R but I also have a reasonable knowledge of scientific Python. I also have a good knowledge of HTML and CSS which I write my websites in.
+I mostly work in R but I also have a reasonable knowledge of scientific Python. I am currently attempting to learn Julia for ecological modelling. I also have a good knowledge of HTML and CSS which I write my websites in.
+
+I speak English, Irish Gaelic, Spanish, and some Scottish Gaelic. I am learning Mandarin, Welsh, and Old Gaelic.
