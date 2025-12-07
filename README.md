@@ -7,6 +7,12 @@
 - 📫 How to reach me: jakedalzell (at) irishplants.org
 - 😄 Pronouns: he/him
 
+## My languages
+
+I mostly work in R but I also have a reasonable knowledge of scientific Python. I am currently attempting to learn Julia for ecological modelling. I also have a good knowledge of HTML and CSS which I write my websites in.
+
+I speak English, Irish Gaelic, Spanish, and some Scottish Gaelic. I am learning Mandarin, Welsh, and Old Gaelic.
+
 ## My websites
 
 Find out more about my work at https://irishplants.org/
@@ -14,11 +20,3 @@ Find out more about my work at https://irishplants.org/
 Learn about plant pathogens at https://plantpathogens.net/
 
 Faghaidh seanchas ag https://seanchas-gaelach.neocities.org/
-
-## My languages
-
-I mostly work in R but I also have a reasonable knowledge of scientific Python. I am currently attempting to learn Julia for ecological modelling. I also have a good knowledge of HTML and CSS which I write my websites in.
-
-I speak English, Irish Gaelic, Spanish, and some Scottish Gaelic. I am learning Mandarin, Welsh, and Old Gaelic.
-
-[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jed76)](https://github.com/anuraghazra/github-readme-stats)
